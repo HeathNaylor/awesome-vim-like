@@ -9,6 +9,7 @@ A curated list of awesome Vim like software that implements bindings similar to 
 ### Contents
 
 - [Awesome Vim Like](#awesome-vim-like-software)
+    - [Database Clients](#database-clients)
     - [File Managers](#file-managers)
     - [File Viewers](#file-viewers)
     - [Music Players](#music-players)
@@ -22,6 +23,8 @@ A curated list of awesome Vim like software that implements bindings similar to 
     - [Text Editors](#text-editors)
     - [Misc](#misc)
 
+## Database Clients
+- [mycli](https://www.mycli.net/) - A MySQL terminal client with auto-completion and syntax highlighting.
 ## File Managers
 - [vifm](https://github.com/vifm/vifm) - Curses based Vim like console file manager
 - [ranger](https://github.com/ranger/ranger) - Console file manager with VI key bindings
